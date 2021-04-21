@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product": "Cup",
+      "price": 89,
+      "image": "https://placeimg.com/640/480/nature"
+    },
+    {
+      "id": 2,
+      "product": "Colorful rug",
+      "price": 440,
+      "image": "https://placeimg.com/640/480/nature"
+    },
+    {
+      "id": 3,
+      "product": "Working desk",
+      "price": 599,
+      "image": "https://placeimg.com/640/480/nature"
+    },
+    {
+      "id": 4,
+      "product": "Night Lamp",
+      "price": 199,
+      "image": "https://placeimg.com/640/480/nature"
+    },
+    {
+      "id": 5,
+      "product": "Chair",
+      "price": 149,
+      "image": "https://placeimg.com/640/480/nature"
+    },
+    {
+      "id": 6,
+      "product": "Coffe table",
+      "price": 299,
+      "image": "https://placeimg.com/640/480/nature"
+    },
+    {
+      "id": 7,
+      "product": "Couch",
+      "price": 3990,
+      "image": "https://placeimg.com/640/480/nature"
+    },
+    {
+      "id": 8,
+      "product": "TV",
+      "price": 3990,
+      "image": "https://placeimg.com/640/480/nature"
+    },
+    {
+      "id": 9,
+      "product": "Screen",
+      "price": 990,
+      "image": "https://placeimg.com/640/480/nature"
+    },
+    {
+      "id": 10,
+      "product": "Shelves",
+      "price": 499,
+      "image": "https://placeimg.com/640/480/nature"
+    }
+  ],
+  "cart": [
+    {
+      "id": 7,
+      "product": "Couch",
+      "price": 3990,
+      "image": "https://placeimg.com/640/480/nature"
+    },
+    {
+      "id": 5,
+      "product": "Chair",
+      "price": 149,
+      "image": "https://placeimg.com/640/480/nature"
+    },
+    {
+      "id": 9,
+      "product": "Screen",
+      "price": 990,
+      "image": "https://placeimg.com/640/480/nature"
+    }
+  ]
+}
